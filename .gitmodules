@@ -1,0 +1,3 @@
+[submodule "LinkGame/Plugins/MaterialFunctionLibrary"]
+	path = LinkGame/Plugins/MaterialFunctionLibrary
+	url = https://github.com/brian2524/MaterialFunctionLibrary.git
