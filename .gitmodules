@@ -1,3 +1,3 @@
-[submodule "LinkGame/Plugins/MaterialFunctionLibrary"]
-	path = LinkGame/Plugins/MaterialFunctionLibrary
-	url = https://github.com/brian2524/MaterialFunctionLibrary.git
+[submodule "LinkGame/Plugins/GameCore"]
+	path = LinkGame/Plugins/GameCore
+	url = https://github.com/brian2524/GameCore.git
